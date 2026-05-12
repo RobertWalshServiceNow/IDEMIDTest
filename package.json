@@ -1,7 +1,7 @@
 {
     "name": "x-snc-ide-mid-test",
     "version": "1.0.0",
-    "description": "IDE MID Test",
+    "description": "IDE MID Test of new pki",
     "license": "UNLICENSED",
     "scripts": {
         "build": "now-sdk build",
